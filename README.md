@@ -3,4 +3,4 @@
 
 ![GIF演示1](preview1.gif)
 
-感谢：https://github.com/j67678/MyNav提供素材
+感谢：https://github.com/j67678/MyNav 提供素材
